@@ -1,0 +1,8 @@
+---
+title: "COVID-19 Cases in Toronto"
+author: "Justin Abando"
+format: pdf
+editor: visual
+---
+
+Example
